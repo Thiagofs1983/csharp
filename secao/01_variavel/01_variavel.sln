@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversaoTextoNumero", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoNumero", "..\ConversaoNumero\ConversaoNumero.csproj", "{933B16FF-D0A2-44D8-BE99-5FB71BE9142C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "..\Array\Array.csproj", "{836C1C32-CC4D-43DB-AC8E-D8A66A4E87AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{933B16FF-D0A2-44D8-BE99-5FB71BE9142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{933B16FF-D0A2-44D8-BE99-5FB71BE9142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{933B16FF-D0A2-44D8-BE99-5FB71BE9142C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836C1C32-CC4D-43DB-AC8E-D8A66A4E87AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836C1C32-CC4D-43DB-AC8E-D8A66A4E87AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836C1C32-CC4D-43DB-AC8E-D8A66A4E87AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836C1C32-CC4D-43DB-AC8E-D8A66A4E87AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
