@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriacaoClasse", "CriacaoClasse.csproj", "{A67ABB26-20A2-48F6-86D2-82FF70BC1F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estatico", "..\Estatico\Estatico.csproj", "{5A2B5652-DF8D-4DA1-A9B7-720026E19975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67ABB26-20A2-48F6-86D2-82FF70BC1F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67ABB26-20A2-48F6-86D2-82FF70BC1F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67ABB26-20A2-48F6-86D2-82FF70BC1F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67ABB26-20A2-48F6-86D2-82FF70BC1F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2B5652-DF8D-4DA1-A9B7-720026E19975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2B5652-DF8D-4DA1-A9B7-720026E19975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2B5652-DF8D-4DA1-A9B7-720026E19975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2B5652-DF8D-4DA1-A9B7-720026E19975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE5193A-87C2-40DC-B713-F222B901DC2D}
+	EndGlobalSection
+EndGlobal
