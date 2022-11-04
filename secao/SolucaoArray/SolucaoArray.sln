@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoArray", "SolucaoArray.csproj", "{53EA239C-A9C5-4637-8AAF-45061C4A926A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMultidimensional", "..\ArrayMultidimensional\ArrayMultidimensional.csproj", "{F7AEE038-1263-469F-A1C5-7404B0FABAC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EA239C-A9C5-4637-8AAF-45061C4A926A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EA239C-A9C5-4637-8AAF-45061C4A926A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EA239C-A9C5-4637-8AAF-45061C4A926A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EA239C-A9C5-4637-8AAF-45061C4A926A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AEE038-1263-469F-A1C5-7404B0FABAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AEE038-1263-469F-A1C5-7404B0FABAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AEE038-1263-469F-A1C5-7404B0FABAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AEE038-1263-469F-A1C5-7404B0FABAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4355E312-4374-46EF-8E03-2164EE23658E}
+	EndGlobalSection
+EndGlobal
