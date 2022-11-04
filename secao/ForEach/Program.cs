@@ -16,6 +16,10 @@ namespace _ForEach
 
             for (int i = 0; i < nomes.Length; i += 1)
             {
+                if (i == 2)
+                {
+                    continue;
+                }
                 Console.WriteLine("Nome: " + nomes[i]);
             }
 
