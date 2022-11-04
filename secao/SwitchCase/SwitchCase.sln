@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase.csproj", "{4C5EE0A1-67AF-4ACC-B20B-7A8208D91C7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While", "..\While\While.csproj", "{8D8688ED-2DF7-4701-AB01-C79B47CC43D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4C5EE0A1-67AF-4ACC-B20B-7A8208D91C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C5EE0A1-67AF-4ACC-B20B-7A8208D91C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C5EE0A1-67AF-4ACC-B20B-7A8208D91C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8688ED-2DF7-4701-AB01-C79B47CC43D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8688ED-2DF7-4701-AB01-C79B47CC43D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8688ED-2DF7-4701-AB01-C79B47CC43D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8688ED-2DF7-4701-AB01-C79B47CC43D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
