@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca.csproj", "{B35AAB64-0382-4821-ADD7-738126D3E809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrescrita", "..\Sobrescrita\Sobrescrita.csproj", "{C2F88905-AF89-4116-B79D-CA5FFF3854E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35AAB64-0382-4821-ADD7-738126D3E809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35AAB64-0382-4821-ADD7-738126D3E809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35AAB64-0382-4821-ADD7-738126D3E809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35AAB64-0382-4821-ADD7-738126D3E809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F88905-AF89-4116-B79D-CA5FFF3854E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F88905-AF89-4116-B79D-CA5FFF3854E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F88905-AF89-4116-B79D-CA5FFF3854E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F88905-AF89-4116-B79D-CA5FFF3854E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2FA152C-82CB-4382-909C-988A4F8DC8B8}
+	EndGlobalSection
+EndGlobal
