@@ -13,7 +13,7 @@ namespace _Sobrescrita.Biblioteca
         public int Passageiros;
         public int AnoFabricação;
 
-        public void Mover()
+        public virtual void Mover()
         {
             Console.WriteLine("Mover chamado dentro de: Veiculo.Mover");
         }

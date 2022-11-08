@@ -10,7 +10,7 @@ namespace _Sobrescrita.Biblioteca
     {
         int Rodas = 2;
 
-        public void Mover()
+        public override void Mover()
         {
             Console.WriteLine("Mover chamado dentro de: Moto.Mover com " + Rodas + " rodas");
             base.Mover();
