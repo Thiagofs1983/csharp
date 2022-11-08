@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca.Biblioteca
+namespace _Sobrescrita.Biblioteca
 {
     internal class Carro : Veiculo
     {

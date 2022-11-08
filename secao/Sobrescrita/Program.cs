@@ -1,11 +1,11 @@
-﻿using Heranca.Biblioteca;
+﻿using _Sobrescrita.Biblioteca;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _boolObject
+namespace _Sobrescrita
 {
     class Program
     {
@@ -18,6 +18,10 @@ namespace _boolObject
             carro.AnoFabricação = 2019;
             moto.Modelo = "Honda";
             veiculo.Passageiros = 4;
+
+            moto.Mover();
+            carro.Mover();
+            veiculo.Mover();
         }
     }
 }

@@ -4,10 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Heranca.Biblioteca
+namespace _Sobrescrita.Biblioteca
 {
     internal class Moto : Veiculo
     {
         int Rodas = 2;
+
+        public void Mover()
+        {
+            Console.WriteLine("Mover chamado dentro de: Moto.Mover com " + Rodas + " rodas");
+            base.Mover();
+        }
     }
 }

@@ -8,6 +8,6 @@ namespace Heranca.Biblioteca
 {
     internal class Moto : Veiculo
     {
-        int Rodas = 2;
+        public int Rodas = 2;
     }
 }
