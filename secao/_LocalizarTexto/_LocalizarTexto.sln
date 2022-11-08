@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_FormatarTexto", "..\_Forma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_RemoverEspaços", "..\_RemoverEspaços\_RemoverEspaços.csproj", "{AEE9D0FB-DFE3-4C11-86AF-BB7809C713F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_DividirTexto", "..\_DividirTexto\_DividirTexto.csproj", "{72B10E72-2DC4-429F-BCC5-20F9F520869B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AEE9D0FB-DFE3-4C11-86AF-BB7809C713F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEE9D0FB-DFE3-4C11-86AF-BB7809C713F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEE9D0FB-DFE3-4C11-86AF-BB7809C713F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B10E72-2DC4-429F-BCC5-20F9F520869B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B10E72-2DC4-429F-BCC5-20F9F520869B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B10E72-2DC4-429F-BCC5-20F9F520869B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B10E72-2DC4-429F-BCC5-20F9F520869B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
