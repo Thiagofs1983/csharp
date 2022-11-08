@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_LocalizarTexto", "_Localiz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Substituir", "..\_Substituir\_Substituir.csproj", "{5555FE05-5FB5-482B-A385-3EEE4A5FCFE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_VerificarSeExiste", "..\_VerificarSeExiste\_VerificarSeExiste.csproj", "{88C3857F-1BFD-4DB7-B21B-AD1F462CD9F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_FormatarTexto", "..\_FormatarTexto\_FormatarTexto.csproj", "{5EB7992C-D2EA-4546-B12E-B7259FF21329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5555FE05-5FB5-482B-A385-3EEE4A5FCFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5555FE05-5FB5-482B-A385-3EEE4A5FCFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5555FE05-5FB5-482B-A385-3EEE4A5FCFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C3857F-1BFD-4DB7-B21B-AD1F462CD9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C3857F-1BFD-4DB7-B21B-AD1F462CD9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C3857F-1BFD-4DB7-B21B-AD1F462CD9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C3857F-1BFD-4DB7-B21B-AD1F462CD9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB7992C-D2EA-4546-B12E-B7259FF21329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB7992C-D2EA-4546-B12E-B7259FF21329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB7992C-D2EA-4546-B12E-B7259FF21329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB7992C-D2EA-4546-B12E-B7259FF21329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
