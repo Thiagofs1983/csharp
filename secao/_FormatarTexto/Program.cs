@@ -16,6 +16,8 @@ namespace _FormatarTexto
             string TextoFormatado = string.Format("Olá {0}! Feliz {1}!!!", nome, natal);
 
             Console.WriteLine(TextoFormatado);
+            Console.WriteLine(TextoFormatado.ToLower());
+            Console.WriteLine(TextoFormatado.ToUpper());
         }
     }
 }
