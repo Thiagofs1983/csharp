@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Polegada polegada = new Polegada(10);
+            Polegada polegada = new(10);
             Console.WriteLine(polegada.Centimetro());
         }
     }
