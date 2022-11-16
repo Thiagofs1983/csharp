@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_PassagemParametroPorValor"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_PassagemParametroPorReferencia", "_PassagemParametroPorReferencia\_PassagemParametroPorReferencia.csproj", "{A4799E32-F058-405B-9027-93403D63AFBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_PassagemParametroOut", "_PassagemParametroOut\_PassagemParametroOut.csproj", "{A9A8DAB4-DAC2-44F8-965C-79D946F54A5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A4799E32-F058-405B-9027-93403D63AFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4799E32-F058-405B-9027-93403D63AFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4799E32-F058-405B-9027-93403D63AFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A8DAB4-DAC2-44F8-965C-79D946F54A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A8DAB4-DAC2-44F8-965C-79D946F54A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A8DAB4-DAC2-44F8-965C-79D946F54A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A8DAB4-DAC2-44F8-965C-79D946F54A5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
